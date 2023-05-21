@@ -1,0 +1,32 @@
+C:\Users\Masih\source\repos\hanoiTower2\bin\Debug\hanoiTower2.exe.config
+C:\Users\Masih\source\repos\hanoiTower2\bin\Debug\hanoiTower2.exe
+C:\Users\Masih\source\repos\hanoiTower2\bin\Debug\hanoiTower2.pdb
+C:\Users\Masih\source\repos\hanoiTower2\obj\Debug\hanoiTower2.csproj.AssemblyReference.cache
+C:\Users\Masih\source\repos\hanoiTower2\obj\Debug\hanoiTower2.Form1.resources
+C:\Users\Masih\source\repos\hanoiTower2\obj\Debug\hanoiTower2.Properties.Resources.resources
+C:\Users\Masih\source\repos\hanoiTower2\obj\Debug\hanoiTower2.csproj.GenerateResource.cache
+C:\Users\Masih\source\repos\hanoiTower2\obj\Debug\hanoiTower2.csproj.CoreCompileInputs.cache
+C:\Users\Masih\source\repos\hanoiTower2\obj\Debug\hanoiTower2.exe
+C:\Users\Masih\source\repos\hanoiTower2\obj\Debug\hanoiTower2.pdb
+C:\Users\Masih\source\repos\hanoiTower2\obj\Debug\hanoiTower2.Form2.resources
+C:\Users\RayanGate\Desktop\hanoiTower2\bin\Debug\hanoiTower2.exe.config
+C:\Users\RayanGate\Desktop\hanoiTower2\bin\Debug\hanoiTower2.exe
+C:\Users\RayanGate\Desktop\hanoiTower2\bin\Debug\hanoiTower2.pdb
+C:\Users\RayanGate\Desktop\hanoiTower2\obj\Debug\hanoiTower2.csproj.AssemblyReference.cache
+C:\Users\RayanGate\Desktop\hanoiTower2\obj\Debug\hanoiTower2.Form2.resources
+C:\Users\RayanGate\Desktop\hanoiTower2\obj\Debug\hanoiTower2.Form1.resources
+C:\Users\RayanGate\Desktop\hanoiTower2\obj\Debug\hanoiTower2.Properties.Resources.resources
+C:\Users\RayanGate\Desktop\hanoiTower2\obj\Debug\hanoiTower2.csproj.GenerateResource.cache
+C:\Users\RayanGate\Desktop\hanoiTower2\obj\Debug\hanoiTower2.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Desktop\hanoiTower2\obj\Debug\hanoiTower2.exe
+C:\Users\RayanGate\Desktop\hanoiTower2\obj\Debug\hanoiTower2.pdb
+C:\Users\RayanGate\Desktop\Project\C Sharp\hanoiTower2\bin\Debug\hanoiTower2.exe.config
+C:\Users\RayanGate\Desktop\Project\C Sharp\hanoiTower2\bin\Debug\hanoiTower2.exe
+C:\Users\RayanGate\Desktop\Project\C Sharp\hanoiTower2\obj\Debug\hanoiTower2.csproj.AssemblyReference.cache
+C:\Users\RayanGate\Desktop\Project\C Sharp\hanoiTower2\obj\Debug\hanoiTower2.Form2.resources
+C:\Users\RayanGate\Desktop\Project\C Sharp\hanoiTower2\obj\Debug\hanoiTower2.Form1.resources
+C:\Users\RayanGate\Desktop\Project\C Sharp\hanoiTower2\obj\Debug\hanoiTower2.Properties.Resources.resources
+C:\Users\RayanGate\Desktop\Project\C Sharp\hanoiTower2\obj\Debug\hanoiTower2.csproj.GenerateResource.cache
+C:\Users\RayanGate\Desktop\Project\C Sharp\hanoiTower2\obj\Debug\hanoiTower2.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Desktop\Project\C Sharp\hanoiTower2\obj\Debug\hanoiTower2.exe
+C:\Users\RayanGate\Desktop\Project\C Sharp\hanoiTower2\obj\Debug\hanoiTower2.pdb
